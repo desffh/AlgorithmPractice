@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5061D5BC-2233-410F-973F-E3ADAAA3274A}|..\\Algorithm_IsPrime\\Algorithm_IsPrime.vcxproj|C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Algorithm_IsPrime\\Algorithm_IsPrime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C427FF1-B927-4377-89C2-01F02852F502}|..\\Algorithm_BruteForce\\Algorithm_BruteForce.vcxproj|C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Algorithm_BruteForce\\Algorithm_BruteForce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44103B23-C4BD-405B-AE0D-A52D4767D39A}|Program\\Program.vcxproj|C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44103B23-C4BD-405B-AE0D-A52D4767D39A}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Algorithm_IsPrime.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Algorithm_IsPrime\\Algorithm_IsPrime.cpp",
+              "RelativeDocumentMoniker": "..\\Algorithm_IsPrime\\Algorithm_IsPrime.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Algorithm_IsPrime\\Algorithm_IsPrime.cpp",
+              "RelativeToolTip": "..\\Algorithm_IsPrime\\Algorithm_IsPrime.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T07:02:27.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Algorithm_BruteForce.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Algorithm_BruteForce\\Algorithm_BruteForce.cpp",
+              "RelativeDocumentMoniker": "..\\Algorithm_BruteForce\\Algorithm_BruteForce.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Algorithm_BruteForce\\Algorithm_BruteForce.cpp",
+              "RelativeToolTip": "..\\Algorithm_BruteForce\\Algorithm_BruteForce.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T06:58:43.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Program\\Program\\Program.cpp",
+              "RelativeDocumentMoniker": "Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Program\\Program\\Program.cpp",
+              "RelativeToolTip": "Program\\Program.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T06:26:50.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
