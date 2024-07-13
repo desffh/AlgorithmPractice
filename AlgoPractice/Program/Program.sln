@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithm_BruteForce", "..\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithm_IsPrime", "..\Algorithm_IsPrime\Algorithm_IsPrime.vcxproj", "{5061D5BC-2233-410F-973F-E3ADAAA3274A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Eratosthenes", "..\Eratosthenes\Eratosthenes.vcxproj", "{074667F9-B086-4FF5-A718-3618B9953945}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{5061D5BC-2233-410F-973F-E3ADAAA3274A}.Release|x64.Build.0 = Release|x64
 		{5061D5BC-2233-410F-973F-E3ADAAA3274A}.Release|x86.ActiveCfg = Release|Win32
 		{5061D5BC-2233-410F-973F-E3ADAAA3274A}.Release|x86.Build.0 = Release|Win32
+		{074667F9-B086-4FF5-A718-3618B9953945}.Debug|x64.ActiveCfg = Debug|x64
+		{074667F9-B086-4FF5-A718-3618B9953945}.Debug|x64.Build.0 = Debug|x64
+		{074667F9-B086-4FF5-A718-3618B9953945}.Debug|x86.ActiveCfg = Debug|Win32
+		{074667F9-B086-4FF5-A718-3618B9953945}.Debug|x86.Build.0 = Debug|Win32
+		{074667F9-B086-4FF5-A718-3618B9953945}.Release|x64.ActiveCfg = Release|x64
+		{074667F9-B086-4FF5-A718-3618B9953945}.Release|x64.Build.0 = Release|x64
+		{074667F9-B086-4FF5-A718-3618B9953945}.Release|x86.ActiveCfg = Release|Win32
+		{074667F9-B086-4FF5-A718-3618B9953945}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
