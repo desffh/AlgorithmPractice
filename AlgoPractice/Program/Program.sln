@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Depth First Search", "..\De
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Breadth First Search", "..\Breadth First Search\Breadth First Search.vcxproj", "{BD15E004-3667-48D4-8758-489945ED7E0B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Topology Sort", "..\Topology Sort\Topology Sort.vcxproj", "{17FE1899-3241-4ACA-9AAC-FBF454CD4DAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{BD15E004-3667-48D4-8758-489945ED7E0B}.Release|x64.Build.0 = Release|x64
 		{BD15E004-3667-48D4-8758-489945ED7E0B}.Release|x86.ActiveCfg = Release|Win32
 		{BD15E004-3667-48D4-8758-489945ED7E0B}.Release|x86.Build.0 = Release|Win32
+		{17FE1899-3241-4ACA-9AAC-FBF454CD4DAA}.Debug|x64.ActiveCfg = Debug|x64
+		{17FE1899-3241-4ACA-9AAC-FBF454CD4DAA}.Debug|x64.Build.0 = Debug|x64
+		{17FE1899-3241-4ACA-9AAC-FBF454CD4DAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{17FE1899-3241-4ACA-9AAC-FBF454CD4DAA}.Debug|x86.Build.0 = Debug|Win32
+		{17FE1899-3241-4ACA-9AAC-FBF454CD4DAA}.Release|x64.ActiveCfg = Release|x64
+		{17FE1899-3241-4ACA-9AAC-FBF454CD4DAA}.Release|x64.Build.0 = Release|x64
+		{17FE1899-3241-4ACA-9AAC-FBF454CD4DAA}.Release|x86.ActiveCfg = Release|Win32
+		{17FE1899-3241-4ACA-9AAC-FBF454CD4DAA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
