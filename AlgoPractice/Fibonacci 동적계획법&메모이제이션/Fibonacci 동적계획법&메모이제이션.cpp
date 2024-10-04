@@ -13,6 +13,7 @@ int Fibonacci(int n, int list[])
 	else if (n <= 2) // 1,2번째 값은 1
 	{
 		return 1;
+	}
 
 	// 이미 계산된 값이 list에 저장되어있다 (재사용 가능)
 	if (list[n] != 0)

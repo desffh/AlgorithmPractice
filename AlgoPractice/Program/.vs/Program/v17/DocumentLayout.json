@@ -3,11 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85CEDA99-C232-4084-B4C8-82A154FE7492}|..\\Greedy2\\Greedy2.vcxproj|C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\Greedy2\\Greedy2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44103B23-C4BD-405B-AE0D-A52D4767D39A}|Program\\Program.vcxproj|C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44103B23-C4BD-405B-AE0D-A52D4767D39A}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E9BBE-E6B8-4756-8D7E-7D4027C2590D}|..\\ShellSort\\ShellSort.vcxproj|C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\ShellSort\\ShellSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CEDA99-C232-4084-B4C8-82A154FE7492}|..\\Greedy2\\Greedy2.vcxproj|C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\Greedy2\\Greedy2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA0054F7-FA7A-48E4-B55E-7CD341113A74}|..\\Fibonacci \uB3D9\uC801\uACC4\uD68D\uBC95\u0026\uBA54\uBAA8\uC774\uC81C\uC774\uC158\\Fibonacci \uB3D9\uC801\uACC4\uD68D\uBC95\u0026\uBA54\uBAA8\uC774\uC81C\uC774\uC158.vcxproj|C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\Fibonacci \uB3D9\uC801\uACC4\uD68D\uBC95\u0026\uBA54\uBAA8\uC774\uC81C\uC774\uC158\\Fibonacci \uB3D9\uC801\uACC4\uD68D\uBC95\u0026\uBA54\uBAA8\uC774\uC81C\uC774\uC158.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -44,24 +47,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ShellSort.cpp",
+              "DocumentMoniker": "C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\ShellSort\\ShellSort.cpp",
+              "RelativeDocumentMoniker": "..\\ShellSort\\ShellSort.cpp",
+              "ToolTip": "C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\ShellSort\\ShellSort.cpp",
+              "RelativeToolTip": "..\\ShellSort\\ShellSort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T04:36:21.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Greedy2.cpp",
               "DocumentMoniker": "C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\Greedy2\\Greedy2.cpp",
               "RelativeDocumentMoniker": "..\\Greedy2\\Greedy2.cpp",
               "ToolTip": "C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\Greedy2\\Greedy2.cpp",
               "RelativeToolTip": "..\\Greedy2\\Greedy2.cpp",
-              "ViewState": "AQIAADEAAAAAAAAAAAAAADUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-02T05:34:09.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Fibonacci \uB3D9\uC801\uACC4\uD68D\uBC95\u0026\uBA54\uBAA8\uC774\uC81C\uC774\uC158.cpp",
               "DocumentMoniker": "C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\Fibonacci \uB3D9\uC801\uACC4\uD68D\uBC95\u0026\uBA54\uBAA8\uC774\uC81C\uC774\uC158\\Fibonacci \uB3D9\uC801\uACC4\uD68D\uBC95\u0026\uBA54\uBAA8\uC774\uC81C\uC774\uC158.cpp",
               "RelativeDocumentMoniker": "..\\Fibonacci \uB3D9\uC801\uACC4\uD68D\uBC95\u0026\uBA54\uBAA8\uC774\uC81C\uC774\uC158\\Fibonacci \uB3D9\uC801\uACC4\uD68D\uBC95\u0026\uBA54\uBAA8\uC774\uC81C\uC774\uC158.cpp",
@@ -69,12 +85,11 @@
               "RelativeToolTip": "..\\Fibonacci \uB3D9\uC801\uACC4\uD68D\uBC95\u0026\uBA54\uBAA8\uC774\uC81C\uC774\uC158\\Fibonacci \uB3D9\uC801\uACC4\uD68D\uBC95\u0026\uBA54\uBAA8\uC774\uC81C\uC774\uC158.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-02T04:42:54.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T04:42:54.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "QuickSort.cpp",
               "DocumentMoniker": "C:\\Users\\yujin\\Desktop\\AlgorithmPractice\\AlgoPractice\\QuickSort\\QuickSort.cpp",
               "RelativeDocumentMoniker": "..\\QuickSort\\QuickSort.cpp",
@@ -86,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "\uB204\uC801\uD569.cpp",
               "DocumentMoniker": "C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\\uB204\uC801\uD569\\\uB204\uC801\uD569.cpp",
               "RelativeDocumentMoniker": "..\\\uB204\uC801\uD569\\\uB204\uC801\uD569.cpp",
@@ -98,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Depth First Search.cpp",
               "DocumentMoniker": "C:\\Users\\\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Depth First Search\\Depth First Search.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Depth First Search\\Depth First Search.cpp",
@@ -110,20 +125,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\Program\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\YUJIN\\Desktop\\AlgorithmPractice\\AlgoPractice\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCoAAAADAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-02T08:17:56.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MergeSort2.cpp",
               "DocumentMoniker": "C:\\Users\\yujin\\Desktop\\AlgorithmPractice\\AlgoPractice\\MergeSort2\\MergeSort2.cpp",
               "RelativeDocumentMoniker": "..\\MergeSort2\\MergeSort2.cpp",
@@ -135,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Minimum Spanning Tree.cpp",
               "DocumentMoniker": "C:\\Users\\yujin\\Desktop\\AlgorithmPractice\\AlgoPractice\\Minimum Spanning Tree\\Minimum Spanning Tree.cpp",
               "RelativeDocumentMoniker": "..\\Minimum Spanning Tree\\Minimum Spanning Tree.cpp",
@@ -147,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Union Find.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Union Find\\Union Find.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Union Find\\Union Find.cpp",
@@ -159,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Topology Sort.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Topology Sort\\Topology Sort.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Topology Sort\\Topology Sort.cpp",
@@ -171,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Breadth First Search.cpp",
               "DocumentMoniker": "C:\\Users\\\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Breadth First Search\\Breadth First Search.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\uC720\uC9C4\\Desktop\\AlgorithmPractice\\AlgoPractice\\Breadth First Search\\Breadth First Search.cpp",

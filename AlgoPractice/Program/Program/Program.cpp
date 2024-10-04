@@ -1,58 +1,29 @@
 ﻿#include <iostream>
 using namespace std;
 
-// 탐욕법
-// -> 최적의 해를 구하는데 사용되는 방식
-// -> "그 순간에" 최적이라고 생각되는 것을 선택해나감
-// -> 단순해서 실행시간이 빠름
+// 유클리드 호제법
+// 두 개의 자연 수의 최대공약수를 구하는 알고리즘
 
-int Greedy(int n)
+// 최대공약수 : 두 개의 공통된 약수 중 가장 큰 약수
+
+// 큰수에서 작은수를 나눈 나머지값으로 계속 나누는 방식
+
+int Euclidean(int x, int y)
 {
-	int count = 0;
-
-	while (n != 0)
+	if (y == 0)
 	{
-		if (n >= 1000)
-		{
-			n -= 1000;
-			count++;
-		}
-	    else if (n >= 500)
-		{
-			n -= 500;
-			count++;
-		}
-		else if (n >= 100)
-		{
-			n -= 100;
-			count++;
-		}
-		else if (n >= 50)
-		{
-			n -= 50;
-			count++;
-		}
-		else if (n >= 10)
-		{
-			n -= 10;
-			count++;
-		}
-		else
-		{
-			break;
-		}
+		return x;
 	}
-	return count;
+	else
+	{
+		return Euclidean(y, x % y);
+	}
 
 }
 
-
-
 int main()
 {
-	cout << Greedy(1340);
-	// 결과값: 1000 1개, 100 3개, 10 4개
-
+	cout << Euclidean(48, 18);
 
 	return 0;
 }
